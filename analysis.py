@@ -69,13 +69,3 @@ plt.show()
 sns.countplot(data=tweet_df, x='Date', hue='Valence')
 plt.title("Valence of tweets by date")
 plt.show()
-
-
-
-
-
-
-
-
-
-

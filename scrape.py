@@ -1,5 +1,3 @@
-# Question: What was the sentiment of Tweets about war in Ukraine in the last week and what are the associated key words?
-
 import tweepy
 from dotenv import load_dotenv
 import os
