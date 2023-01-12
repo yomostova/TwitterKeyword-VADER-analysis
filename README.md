@@ -1,5 +1,5 @@
 ## Description
-The program scrapes most recent tweets that include a specific keyword posted in the last 7 days.
+The program scrapes most recent tweets (posted in the last 7 days) that include a specific keyword .
 Tweets are then cleaned from links and special characters and duplicates are removed.
 Afterwards, sentiment analysis is performed using VADER-software.
 
